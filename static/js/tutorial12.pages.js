@@ -192,7 +192,7 @@ tutorial12.pages.list =
           guide:function(result){
         	  return "<h4>Functions returning lists</h4>"+
               '<p>Actually, a function can return only one result.</p>'+
-              '<p>However, lists allow you to package up several values into one object, which can be returned by a function.'+
+              '<p>However, lists allow you to package up several values into one object, which can be returned by a function. '+
               'Here is a function <tt>sumprod</tt> that returns both the sum and the product of two numbers:</p>'+
               '<p><code>sumprod = \\x y -> [x+y,x*y]</code></p>'+
               
